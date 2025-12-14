@@ -1,5 +1,5 @@
 ---
-title: Cognitive Declination Differences Between Men and Women
+## title: Cognitive Declination Differences Between Men and Women
 ---
 
 # Cognitive Declination Differences Between Men and Women
