@@ -48,7 +48,7 @@ The dataset is consistent with large-scale neuroimaging studies such as ADNI and
 - Peak cognitive decline appears earlier in males (ages 65–69)
 - Average CDR decreases at higher ages, potentially reflecting **survivorship bias**
 - The oldest age group (95–99) contains only female participants
-
+![visualization.png](visualization.png)
 ---
 
 ## Conclusions
