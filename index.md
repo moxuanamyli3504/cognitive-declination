@@ -74,7 +74,7 @@ Gender differences are evident across most age ranges, with males consistently s
 ## Full Project Materials
 
  **[View the full project repository](LINK_TO_PROJECT_REPO_HERE)**  
- **[Open the Colab analysis notebook](LINK_TO_COLAB_OR_UPLOADED_NOTEBOOK)**
+ **[Open the Colab analysis notebook](https://colab.research.google.com/drive/1jWL4xmI5Fu7I0w_E8uCH6TcxTrIV9iWO?usp=sharing)**
 
 Interactive Plotly visualizations and the complete written report are available in the project repository.
 
