@@ -71,9 +71,7 @@ Gender differences are evident across most age ranges, with males consistently s
 
  **[View the full project repository](https://moxuanamyli3504.github.io/cognitive-declination/)**  
  **[Open the Colab analysis notebook](https://colab.research.google.com/drive/1jWL4xmI5Fu7I0w_E8uCH6TcxTrIV9iWO?usp=sharing)**
-
-Interactive Plotly visualizations and the complete written report are available in the project repository.
-
+ 
 ---
 
 ## Future Work
